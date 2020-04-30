@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "@octokit/rest": "^16.33.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "slick-carousel": "^1.8.1"
   }
 }
